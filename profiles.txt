@@ -1,0 +1,3 @@
+1000|Heng|Tze Meng|12/07/1999|Male|Uptown Petaling Jaya|Selangor|42200|meng@hotmail.com|012-2223333|016-7894566
+1213314|Jane|Doe|12/12/2000|Female|Street 1, Near Building 101|Kaula Lampur|12000|janedoe@yahoo.com|+12313141|+1312314141414
+as|john|doe|12/12/2001|Male|Street 1|KL Sentral|32300|johndoe@gmail.com|+2132141|+2132141
